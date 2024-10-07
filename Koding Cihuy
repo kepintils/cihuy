@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="About.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header>
+    <nav class="navbar">
+    <ul>
+            <li class="logo">KepinnXD</a></li>
+            <li><a href="About.html"><i class='bx bxs-user'></i>Tentang Saya</a></li>
+            <li><a href="Beranda.html"><i class='bx bx-home'></i>Beranda</a></li>
+            <li><a href="Projek.html"><i class='bx bxs-food-menu'></i>Projek</a></li>
+    </ul>
+    </header>
+    </nav>
+    <div class="heading">
+        <h1> Tentang Saya</h1>
+        <p>Idk mau ngisi apaan.</p>
+    </div>
+    <div class="container">
+        <section class="container">
+            <div class="about-image">
+                <img src="img/gw.png"> 
+            </div>
+            <div class="about-content">
+                <h2>Perkenalan About Me</h2>
+                <p>
+                    Perknalkan Nama saya Adalah Calvin Kristian Bayu Utomo, Saya saat ini sedang Bersekolah di SMK Binhar, Dan sedang mempelajari Tugas Html dan css.
+                </p>
+<br>
+<p>
+    Saya Tinggal Di Perumahan Telaga Pasiraya Blok A15 No.03, Saya lahir pada 28 Oktober 2008, Yang berarti umur saya sekarang adalah 69 tahun, Hobi Saya Adalah Menggambar dan Membuat semacam gfx untuk poster, Saya anak sulung dari 2 bersaudara, Tinggi Badan Saya 170kg, dan berat badan saya 69km
+</p>
+<br>
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut nobis, ex nam dolore esse inventore, non animi, adipisci cumque iusto quae! Obcaecati inventore eos tempora vel, labore officia laborum ullam?
+</p>
+
+                <a href="https://youtu.be/xvFZjo5PgG0?si=SKbvpHWCdmMpSpf7" class="read-more">Baca Selengkapnya</a>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
