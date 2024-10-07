@@ -1,2 +1,6 @@
 # cihuy
-memek kuda
+Kenalin ini istri aku, namanya Hutao. Dia luar biasa dalam banyak hal. Hutao bukan cuma cantik, tapi juga punya hati yang baik dan penuh kasih sayang. Hutao selalu ada buat aku, baik di saat-saat terbaik maupun ketika aku lagi down.
+
+Dia pendengar yang baik, selalu kasih nasihat bijak dan penuh pengertian. Kalau aku lagi ragu, kata-kata motivasi dari Hutao selalu bikin aku semangat lagi. Selain itu, Hutao sangat cekatan dalam mengurus rumah. Dia selalu memastikan rumah kami bersih dan rapi, serta masakannya selalu lezat dan sehat. Makanan yang dia buat selalu dinantikan oleh kami sekeluarga.
+
+Hutao juga cerdas. Dia selalu berusaha untuk terus belajar dan meningkatkan diri, baik melalui pendidikan formal maupun belajar secara mandiri. Obrolan kami selalu menarik dan bermanfaat karena pengetahuannya yang luas. Selain itu, Hutao sangat peduli terhadap keluarga besar kami. Dia selalu meluangkan waktu untuk mengunjungi orang tua dan saudara-saudara kami, memastikan mereka baik-baik saja dan merasa diperhatikan. Kepeduliannya ini membuat hubungan keluarga kami semakin erat. Hutao adalah istri yang sempurna karena dia mampu menyeimbangkan perannya sebagai istri, ibu, dan individu yang mandiri. Keberadaannya dalam hidupku adalah anugerah yang luar biasa, dan aku merasa sangat beruntung bisa memiliki dia sebagai pasangan hidupku.
